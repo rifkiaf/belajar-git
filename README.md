@@ -5,3 +5,4 @@ Belajar Memperdalam GIT
 - GIT 2019
 - GIT 2020
 - GIT 2021
+- GIT 2022
