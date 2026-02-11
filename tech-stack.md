@@ -8,3 +8,6 @@
 8. Grafana
 9. ArgoCD
 10. Vault
+11. Nagios
+12. Spinnaker
+13. OpenShift
